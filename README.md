@@ -1,4 +1,4 @@
-# wpTest-Plugin-
+# wpTest Plugin
 This is a WordPress test plugin.
 
 
